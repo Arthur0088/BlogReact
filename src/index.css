@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Golos Text' , sans-serif;
+}
+body{
+    background-color: #1C1C1C ;
+    color: #f7e6e6;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #a6c20b;
+    opacity: 1.7;
+    transition: 0.3s;
+}
+a:hover{
+    opacity: 1;
+}
+p{
+    color: #f8f8ff;
+}
